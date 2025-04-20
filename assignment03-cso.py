@@ -3,7 +3,7 @@ Weekly Assignment 03
 Author: Galal Abdelaziz
 File Name: assignment03-cso.py
 Task: Write a program that retrieves the dataset for the "exchequer account (historical series)" from the CSO, and stores it into a file called "cso.json".
-Dataset found on this URL "https://data.cso.ie/table/FIQ02'
+Dataset found on this URL "https://data.cso.ie/table/FIQ02"
 """
 
 import requests
