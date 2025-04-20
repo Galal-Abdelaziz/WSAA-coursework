@@ -2,8 +2,7 @@
 Weekly Assignment 04
 Author: Galal Abdelaziz
 File Name: assignment04-github.py
-Task: Write a program in python that will read a file from a repository, The program should then replace all the instances of the text "Andrew" with your name, then commit those changes and push the file back to the repository (You will need authorisation to do this).
-Dataset found on this URL "https://data.cso.ie/table/FIQ02"
+Task: Write a program in python that will read a file from a repository, The program should then replace all the instances of the text "Andrew" with your name, then commit those changes and push the file back to the repository.
 """
 import requests
 import base64
