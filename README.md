@@ -21,6 +21,9 @@ Weekly assignments are part of the __Web Services And Applications__ module 2025
 * **assignment2-carddraw.ipynb**: Topic 2 task.
 * **assignment03-cso.py**: Topic 4 task.
 * **assignment04-github.py**: Topic 5 task.
+* **cso.json**: Assignment03 run result.
+* **original-assignment04.txt**: Assignment04 required file.
+* **modified-assignment04.txt**: Assignment04 run result.
 
 ***
 
